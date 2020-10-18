@@ -86,6 +86,7 @@
 * [lemondeestunecamera.fr](https://www.lemondeestunecamera.fr)
 * [prove blog](https://prove.netlify.com/)
 * [pragmatic-coder.net](https://pragmatic-coder.net)
+* [Python for mathematics book](https://vknight.org/pfm/)
 * [Tanel Poder's performance & troubleshooting blog](https://tanelpoder.com)
 * [rgoswami.me](https://rgoswami.me)
 * [Ceso Adventures](https://ceso.github.io/)
@@ -103,3 +104,4 @@
 * [Smoothlog](https://smoothlog.com/)
 * [shiveenp.com](https://shiveenp.com)
 * [IcePlugins](https://iceplugins.xyz)
+* [Un peu de math blog](https://vknight.org/blog/)
